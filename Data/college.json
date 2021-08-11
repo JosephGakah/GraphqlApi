@@ -1,0 +1,15 @@
+{
+  {
+    "name":"Strathmore", 
+    "id":"uni-1"
+    "location":"nairobi", 
+    "rating":"10.0"
+  }, 
+  {
+    "name":"UoN", 
+    "id":"uni-2"
+    "location":"nairobi", 
+    "rating":"9.0"
+  }
+  
+}

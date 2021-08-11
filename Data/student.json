@@ -1,0 +1,31 @@
+{
+  {
+    "name":"Jonathan", 
+    "id":"1003"
+    "university-id":"uni-1", 
+    "email":"jonathan@yahoo.org"
+    "course":"computer-science"
+  }, 
+  {
+    "name":"Hellen", 
+    "id":"2007"
+    "university-id":"uni-2", 
+    "email":"hellen@uon.org"
+    "course":"medicine"
+  }, 
+  {
+    "name":"Tabitha", 
+    "id":"1005"
+    "university-id":"uni-1", 
+    "email":"tabitha@strathmore.org"
+    "course":"informatics"
+  },
+  {
+    "name":"Allan", 
+    "id":"2001"
+    "university-id":"uni-2", 
+    "email":"allan@uon.org"
+    "course":"education"
+  }
+
+}
