@@ -1,5 +1,5 @@
-const {DataStore} = require("notarealdb");
-const store = new DataStore(.. /./Data);
+const { DataStore } = require("notarealdb");
+const store = new DataStore(/Data/);
 
 module.exports = {
   students: store.collection('students'), 
