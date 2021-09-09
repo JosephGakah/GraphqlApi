@@ -1,18 +1,18 @@
 {
-  "name":"graphql-students-server", 
-  "private":true, 
-  "scripts":{
-    "start":"nodemon --ignore data/server.js"
+  "name": "graphql-students-server",
+  "private": true,
+  "scripts": {
+    "start": "nodemon --ignore server.js"
   },
-  "dependencies":{
-    "apollo-server-express":"v2.8.4",
-    "body-parser":"v2.8.",
-    "cors":"v2.8.4",
-    "express":"v4.16.3",
-    "graphql":"v0.13.2",
-    "graphql-tools":"v3.1.1"
+  "dependencies": {
+    "apollo-server-express": "^3.3.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "graphql": "^15.5.3",
+    "graphql-tools": "^8.2.0"
   },
-  "devDependencies":{
-    "nodemon":"1.17.1"
+  "devDependencies": {
+    "nodemon": "^1.17.1"
   }
-} 
+}
